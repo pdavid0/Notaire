@@ -2,9 +2,10 @@ var express = require('express');
 
 var app = express()
 
-app.set('title','Ergo Design');
+app.set('title','Notaire - Accueil');
 
 app.use(express.static(__dirname + '/app/public'));
+app.use('/imgs',express.static(__dirname + '/app/public/images'));
 app.use(express.logger());
 app.get('/', function(request, response) {
   response.sendfile("app/index.html");

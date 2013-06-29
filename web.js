@@ -15,6 +15,7 @@ app.use(function(err, req, res, next) {
 	next(err);
 });
 app.use(express.logger());
+
 app.get('/', function(request, response) {
 	response.sendfile('app/intro.html');
 });
@@ -23,7 +24,11 @@ app.get('/contact', function(request, res) {
 	res.sendfile('app/contact.html');
 });
 
-var port = process.env.PORT || 3000;
-app.listen(port, function() {
+app.use(function(req,res){
+	res.sendfile('app/404.html');
+});
+
+
+var port = process.env.PORT || 3000; app.listen(port, function() {
 	console.log('Listening on ' + port);
 });

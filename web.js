@@ -24,6 +24,15 @@ app.get('/contact', function(request, res) {
 	res.sendfile('app/contact.html');
 });
 
+app.get('/equipe', function(request, res) {
+	res.sendfile('app/team.html');
+});
+
+app.get('/index', function(request, res) {
+	res.sendfile('app/index.html');
+});
+
+
 app.use(function(req,res){
 	res.sendfile('app/404.html');
 });

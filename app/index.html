@@ -26,9 +26,6 @@
     <!-- Layout Style -->
     <link rel="stylesheet" href="public/styles/layout/wide.css" name="layout">
 
-    <!-- Style Switcher Box -->
-    <!--   <link rel="stylesheet" href="public/styles/switcher/style.css">
- -->
     <!--[if lt IE 9]>
       <script src="js/html5.js"></script>
   <![endif]-->
@@ -454,17 +451,6 @@
                         </span>
                     </div>
                     <!-- End copyright -->
-
-                    <!--         <div class="eight columns">
-          <div class="social">
-          <a href="#"><i class="social_icon-twitter s-14"></i></a>
-           <a href="#"><i class="social_icon-facebook s-18"></i></a>
-           <a href="#"><i class="social_icon-dribbble s-18"></i></a>
-           <a href="#"><i class="social_icon-gplus s-18"></i></a>
-           <a href="#"><i class="social_icon-pinterest s-18"></i></a>
-           <a href="#"><i class="social_icon-youtube s-18"></i></a>
-           <a href="#"><i class="social_icon-rss s-18"></i></a>
-          </div> -->
                 </div>
                 <!-- End social icons -->
 
@@ -509,7 +495,8 @@
     <!-- <script src="public/scripts/twitter/jquery.tweet.js"></script> <!-- jQuery Tweets -->
     <script src="public/scripts/jflickrfeed.min.js"></script>
     <!-- jQuery Flickr -->
-    <!-- <script src="public/scripts/social-options.js"></script> <!-- social options , twitter, flickr.. -->
+    <script src="public/scripts/social-options.js"></script> 
+    <!-- social options , twitter, flickr.. -->
     <script src="public/scripts/doubletaptogo.js"></script>
     <!-- Touch-friendly Script  -->
     <script src="public/scripts/fancybox/jquery.fancybox.js"></script>
@@ -550,26 +537,13 @@
             lng: -72.9485,
             title: 'Notaires Saint-Pierre et David',
             infoWindow: {
-                content: '<p>Notaires Saintt-Pierre et David</p>'
+                content: '<p>Notaires Saint-Pierre et David</p>'
             }
         });
 
     });
     </script>
     <!-- End Google Map JavaScript -->
-
-
-    <script type="text/javascript">
-    $(document).ready(function() {
-        $('#footer').jflickrfeed({
-            limit: 6,
-            qstrings: {
-                id: '44802888@N04'
-            },
-            itemTemplate: '<li>' + '<a href="{{image_b}}"><img src="{{image_s}}" alt="{{title}}" /></a>' + '</li>'
-        });
-    });
-    </script>
 </body>
 
 </html>

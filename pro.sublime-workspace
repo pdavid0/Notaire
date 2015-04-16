@@ -1,0 +1,702 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"log"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"langC",
+				"langCode"
+			],
+			[
+				"lan",
+				"langcodes"
+			],
+			[
+				"ex",
+				"exports"
+			],
+			[
+				"float",
+				"float64"
+			],
+			[
+				"ini",
+				"initMatrix"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"ma",
+				"manipulation1"
+			],
+			[
+				"a",
+				"argv"
+			],
+			[
+				"MS",
+				"MSG_FINAL_MATRIX"
+			],
+			[
+				"MSG",
+				"MSG_INIT_MATRIX"
+			],
+			[
+				"M",
+				"MSG_INIT_MATRIX"
+			],
+			[
+				"v",
+				"vectorSize"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"log",
+				"log645-lab3-lib"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"read",
+				"read_cookie"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"address",
+				"Address"
+			],
+			[
+				"res",
+				"restaurents"
+			],
+			[
+				"restau",
+				"restaurent"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"n",
+				"now"
+			],
+			[
+				"Menu",
+				"MenuSchema"
+			],
+			[
+				"re",
+				"ref"
+			],
+			[
+				"restauren",
+				"restaurents"
+			],
+			[
+				"rest",
+				"restaurents"
+			],
+			[
+				"menu",
+				"menu"
+			],
+			[
+				"e",
+				"err"
+			],
+			[
+				"resta",
+				"restaurent"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"E",
+				"Error"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"o",
+				"ObjectId"
+			],
+			[
+				"O",
+				"ObjectId"
+			],
+			[
+				"S",
+				"Schema"
+			],
+			[
+				"restaur",
+				"restaurant"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 21045,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 219.0,
+		"selected_items":
+		[
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"PCI",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/dev/workspace/stpierreetdavid.com/favicon.ico",
+		"/D/dev/workspace/CS-GAMES-2014/en/index.html",
+		"/D/dev/workspace/CS-GAMES-2014/fr/full_description.html",
+		"/D/dev/workspace/CS-GAMES-2014/fr/index.html",
+		"/C/Users/Phil/vpworkspace/src/LOG660/Adresse.java",
+		"/C/Users/Phil/Pictures/plan.svg",
+		"/D/dev/workspace/chrome_app_pisti/app/main.html",
+		"/D/dev/workspace/CS-GAMES-2014/en/full_description.html",
+		"/C/Users/Phil/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Phil/AppData/Roaming/Sublime Text 2/Packages/User/HtmlTidy.sublime-settings",
+		"/C/Users/Phil/AppData/Roaming/Sublime Text 2/Packages/HtmlTidy/HtmlTidy.sublime-settings",
+		"/D/dev/workspace/CS-GAMES-2014/styles/main.scss",
+		"/D/dev/workspace/CS-GAMES-2014/styles/mobile.css",
+		"/D/dev/workspace/CS-GAMES-2014/index.html",
+		"/D/dev/workspace/LOG791-PISTI/MapEditor/test.svg",
+		"/C/Users/Phil/Pictures/svg.svg",
+		"/D/dev/workspace/chrome_app_pisti/app/styles/bootstrap.css",
+		"/D/dev/workspace/chrome_app_pisti/app/styles/style.css",
+		"/D/dev/workspace/stpierreetdavid.com/index.html",
+		"/D/dev/workspace/chrome_app_pisti/app/index.html",
+		"/D/dev/workspace/chrome_app_pisti/app/styles/bootstrap.min.css",
+		"/E/dev/libs/piccolo2d-1.3.1-src/piccolo2d-1.3.1-src/examples/src/main/java/edu/umd/cs/piccolo/examples/GridExample.java",
+		"/E/dev/libs/piccolo2d-1.3.1-src/piccolo2d-1.3.1-src/examples/src/main/java/edu/umd/cs/piccolo/examples/HandleExample.java",
+		"/E/dev/libs/piccolo2d-1.3.1-src/piccolo2d-1.3.1-src/examples/src/main/java/edu/umd/cs/piccolo/examples/EventHandlerExample.java",
+		"/E/dev/libs/piccolo2d-1.3.1-src/piccolo2d-1.3.1-src/examples/src/main/java/edu/umd/cs/piccolo/examples/BirdsEyeViewExample.java",
+		"/C/Users/Phil/AppData/Local/Temp/Temp1_demo.zip/demo.html",
+		"/E/dev/libs/piccolo2d-1.3.1-src/piccolo2d-1.3.1-src/examples/src/main/java/edu/umd/cs/piccolo/examples/SelectionExample.java",
+		"/D/Design/Invention/HTML/White/process.html",
+		"/E/dev/Quattriuum/workspace/qWare/trunk/src/com/quattriuum/qware/client/gui/GraphPanel.java",
+		"/C/Users/Phil/AppData/Local/Temp/Temp1_SimpleWhiteboard-2D-Multitouch_JavaApplication-JOGL-OpenGL.zip/SimpleWhiteboard-2D-Multitouch_JavaApplication-JOGL-OpenGL/src/MultitouchFramework.java",
+		"/E/Dropbox/ApplETS/Opérations/Compétitions/BMIC/2012/code/presentation/index.html",
+		"/D/dev/workspace/blog/index.html",
+		"/E/dev/Quattriuum/workspace/qWare/trunk/src/com/quattriuum/qware/client/gui/MainWindow.java",
+		"/E/dev/Quattriuum/workspace/qWare/trunk/src/com/quattriuum/qware/client/gui/TrackerPanel.java",
+		"/E/dev/Quattriuum/workspace/qStats/trunk/src/com/quattriuum/qstats/main/Main.java",
+		"/D/Design/Invention/HTML/White/pricing_tables.html",
+		"/D/dev/workspace/CS-GAMES-2014/fr/index.bak",
+		"/D/dev/workspace/LOG791-PISTI/client/index.html",
+		"/D/dev/workspace/LOG791-PISTI/client/app.js",
+		"/D/dev/workspace/LOG791-PISTI/client/routes/index.js",
+		"/D/dev/workspace/LOG791-PISTI/client/test_obj.html",
+		"/C/Users/Phil/Downloads/sample/index.html",
+		"/D/dev/workspace/LOG791-PISTI/client/package.json",
+		"/C/Users/Phil/Downloads/mrdoob-three.js-eb6c64d/examples/webgl_loader_obj_mtl.html",
+		"/D/dev/workspace/ergodesign.ca/index.html",
+		"/D/dev/workspace/ergodesign.ca/gallery.html",
+		"/D/dev/workspace/ergodesign.ca/expertise.html",
+		"/D/dev/workspace/ergodesign.ca/contact.html",
+		"/C/Users/Phil/Google Drive/GTI745/LAB1/SimpleModeller-3D_JavaApplication-JOGL-OpenGL/CLASSES.html",
+		"/D/dev/workspace/ergodesign.ca/about.html",
+		"/D/dev/workspace/ergodesign.ca/single-portfolio-image.html",
+		"/D/dev/workspace/Go/hello.go",
+		"/H/backup_laptop/LOG645_TP3/lab3.c",
+		"/H/backup_laptop/LOG645_TP3/makefile",
+		"/D/dev/node_apps/ergodesign/under_construction.html",
+		"/H/backup_laptop/LOG645_TP3/lab3-seq.c",
+		"/H/backup_laptop/LOG645_TP3/lab3-par.c",
+		"/H/backup_laptop/LOG645_TP3/lab3-3.c",
+		"/H/backup_laptop/LOG645_TP3/lab3-5.c",
+		"/H/backup_laptop/LOG645_TP3/test.sh",
+		"/H/backup_laptop/LOG645_TP3/lab3-lib.c",
+		"/H/backup_laptop/LOG645_TP3/lab3-6.c",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/makefile",
+		"/H/backup_laptop/LOG645_TP3/log645-lab3.c",
+		"/H/backup_laptop/LOG645_TP3/log645-lab3-par.c",
+		"/H/backup_laptop/LOG645_TP3/log645-lab3-3.c",
+		"/H/backup_laptop/LOG645_TP3/log645-lab3-seq.c",
+		"/H/backup_laptop/LOG645_TP3/log645-lab3-lib.c",
+		"/H/backup_laptop/LOG645_TP3/log645-lab3-6.c",
+		"/H/backup_laptop/LOG645_TP3/log645-lab3-5.c",
+		"/H/backup_laptop/LOG645_TP3/log645-lab3-lib.h",
+		"/C/Users/Phil/Desktop/lab3-3.txt",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/ai.html",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/db.html",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/embedded.html",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/gaming.html",
+		"/C/Users/Phil/Downloads/cvvvv.svg",
+		"/C/Users/Phil/AppData/Local/Android/android-studio/sdk/docs/reference/android/app/DialogFragment.html",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/sh.html",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/tcs.html",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/puzzle.html",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/sports.html",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/security.html",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/tse.html",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/relay.html",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/xp.html",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/web.html",
+		"/D/dev/workspace/CS-GAMES-2014/en/categories/ai.html",
+		"/D/dev/workspace/CS-GAMES-2014/styles/style.css",
+		"/C/Program Files/Git/doc/git/html/git-remote.html",
+		"/D/dev/workspace/CS-GAMES-2014/en/404.html",
+		"/D/dev/workspace/CS-GAMES-2014/en/FAQ.html",
+		"/D/dev/workspace/CS-GAMES-2014/scripts/jquery.cookie.js",
+		"/D/dev/workspace/CS-GAMES-2014/scripts/under-construction.js",
+		"/D/dev/workspace/CS-GAMES-2014/styles/layout/boxed.css",
+		"/C/Users/Phil/AppData/Local/Temp/fz3temp-1/index.html",
+		"/D/dev/workspace/CS-GAMES-2014/intro.html",
+		"/D/dev/workspace/CS-GAMES-2014/en/intro.html",
+		"/D/dev/workspace/CS-GAMES-2014/app/index.html",
+		"/D/dev/workspace/CS-GAMES-2014/app/intro.html",
+		"/D/dev/workspace/CSG2014T7WMobile/www/spec/index.js",
+		"/D/dev/workspace/CSG2014T7WMobile/www/config.xml",
+		"/D/dev/workspace/CSG2014T7WMobile/www/index.html",
+		"/D/dev/workspace/CSG2014T7WMobile/www/res/screen/android/screen-xhdpi-portrait.png",
+		"/D/dev/node_apps/biosync/app/views/clients/new.jade",
+		"/D/dev/node_apps/biosync/app/models/client.js",
+		"/D/dev/node_apps/biosync/app/controllers/clients.js",
+		"/D/dev/node_apps/biosync/app/views/clients/form.jade",
+		"/D/dev/node_apps/biosync/app/controllers/menus.js",
+		"/D/dev/node_apps/biosync/app/views/index.jade",
+		"/D/dev/node_apps/biosync/app/controllers/pages.js",
+		"/D/dev/node_apps/biosync/config/routes.js",
+		"/D/dev/node_apps/biosync/config/middlewares/authorization.js",
+		"/D/dev/node_apps/biosync/app/models/restaurent.js",
+		"/D/dev/node_apps/biosync/app/models/menu.js",
+		"/D/dev/node_apps/biosync/app/controllers/restaurents.js",
+		"/D/dev/node_apps/biosync/config/config.js",
+		"/D/dev/node_apps/biosync/server.js",
+		"/D/dev/node_apps/biosync/app/views/restaurents/show.jade",
+		"/D/dev/node_apps/biosync/app/views/menus/show.jade",
+		"/D/dev/node_apps/biosync/app/models/client",
+		"/D/dev/node_apps/biosync/app/models/user.js",
+		"/D/dev/node_apps/biosync/app/views/menus/form_r.jade",
+		"/D/dev/node_apps/biosync/app/controllers/comments.js",
+		"/D/dev/node_apps/biosync/app/controllers/articles.js",
+		"/D/dev/node_apps/biosync/app/views/menus/index.jade",
+		"/D/dev/node_apps/biosync/app/views/comments/comment.jade",
+		"/D/dev/node_apps/biosync/app/views/menus/form.jade"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Lange",
+			"Languages",
+			"Software",
+			"html",
+			"        \n",
+			"50",
+			"-->\n",
+			"></",
+			"\"></",
+			"></",
+			"Buy Now",
+			"Team",
+			"bird",
+			"hap",
+			"happy",
+			"javascripts/",
+			"test_obj",
+			"models/PlanRdcFINAL.obj",
+			">\n",
+			"float64",
+			"-6",
+			"-5",
+			"vectorSize",
+			"BAD_ARGS",
+			"multiple3",
+			"multiple2",
+			"tp",
+			"MSG_FINAL_MATRIX",
+			"MSG_INIT_MATRIX",
+			"matrix",
+			"nSEQUENTIAL",
+			"run",
+			"iMatrix",
+			"printToScreen",
+			"printToFile",
+			"averageCalculationsPerProcesses",
+			"initialMatrix",
+			"printToScreen",
+			"printToFile",
+			"nbSquares",
+			"FORMAT",
+			"\"\n",
+			"tExecSeq",
+			"tExecPar",
+			"timeExecParallel",
+			"tExecPar",
+			"printToScreen",
+			"printToFile",
+			"iMatrix",
+			"h",
+			"w",
+			"h",
+			"w",
+			"steps",
+			"height",
+			"width",
+			"Manip",
+			"6",
+			"005",
+			"valeurs",
+			"MPI",
+			"            <div class=\"recent-work bottom-3\">\n\n                <!-- item 1 -->\n                <!-- item 4 -->\n                <div class=\"one-third column item Photography Animation\" data-categories=\"Web Photography\">\n                    <a href=\"single_project_1.html\">\n                        <img src=\"../../images/img/portfolio/thumb-4.jpg\" alt=\"\" class=\"pic\" />\n                        <div class=\"img-caption\">\n                            <div class=\"desc\">\n                                <h3>Apple Creative</h3>\n                                <p>Web Design, Photography</p>\n                                <span>+</span>\n                            </div>\n                        </div>\n                        <!-- hover effect -->\n                    </a>\n                </div>\n                <!-- End -->\n\n                <!-- item 5 -->\n                <div class=\"one-third column item Web Animation\" data-categories=\"Web Animation\">\n                    <a href=\"single_project_1.html\">\n                        <img src=\"../../images/img/portfolio/thumb-5.jpg\" alt=\"\" class=\"pic\" />\n                        <div class=\"img-caption\">\n                            <div class=\"desc\">\n                                <h3>Apple Creative</h3>\n                                <p>Web Design, Animation</p>\n                                <span>+</span>\n                            </div>\n                        </div>\n                        <!-- hover effect -->\n                    </a>\n                </div>\n                <!-- End -->\n\n                <!-- item 6 -->\n                <div class=\"one-third column item Logo Photography\" data-categories=\"Logo Photography\">\n                    <a href=\"single_project_1.html\">\n                        <img src=\"../../images/img/portfolio/thumb-6.jpg\" alt=\"\" class=\"pic\" />\n                        <div class=\"img-caption\">\n                            <div class=\"desc\">\n                                <h3>Apple Creative</h3>\n                                <p>Logo Design, Photography</p>\n                                <span>+</span>\n                            </div>\n                        </div>\n                        <!-- hover effect -->\n                    </a>\n                </div>\n                <!-- End -->\n\n            </div>",
+			"text",
+			"left",
+			"profit",
+			"../scripts",
+			"../images",
+			">\n",
+			"scripts/",
+			"images/",
+			"styles/",
+			"\"/>\n",
+			"scripts/",
+			"images/",
+			"styles/",
+			"scripts/",
+			"images/",
+			"styles/",
+			"scripts/",
+			"images/",
+			"styles/",
+			"js/",
+			"coffee",
+			"client",
+			"menu",
+			"menus",
+			"Menu",
+			"menus",
+			"],",
+			"console",
+			"createMenu",
+			"restaurents[0].menu",
+			"js/",
+			"css/",
+			"social",
+			"js/",
+			"css/",
+			"Invention",
+			"css/",
+			"images/",
+			"img/",
+			"img",
+			"styles",
+			"js/",
+			"css",
+			"sendgrid or postmark",
+			"Please specify which service you want to use",
+			"Please specify",
+			"Please",
+			"	",
+			"user",
+			"th",
+			"	",
+			"createPagination",
+			"preview"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Langage",
+			"Lange de programmation",
+			"Programme",
+			"Register",
+			"",
+			"int",
+			" 6",
+			" 5",
+			"USAGE",
+			"m3",
+			"m2",
+			"tP",
+			"MSG_FINAL_MATRIX_SEC",
+			"MSG_INIT_MATRIX_SEC",
+			"MSG_INIT_MATRIX_PAR",
+			"lab3",
+			"matrix",
+			"pts",
+			"ptf",
+			"averagePerProcesses",
+			"matrix",
+			"pts",
+			"ptf",
+			"squareCount",
+			"sequentialExecutionTime",
+			"parallelExecutionTime",
+			"pts",
+			"ptf",
+			"matrix",
+			"m",
+			"n",
+			"m",
+			"np",
+			"h",
+			"w",
+			"Manipulation",
+			"1",
+			"01",
+			"../../scripts",
+			"../../images",
+			"../scripts/",
+			"../images/",
+			"../styles/",
+			"../scripts/",
+			"../images/",
+			"../styles/",
+			"../scripts/",
+			"../images/",
+			"../styles/",
+			"../scripts/",
+			"../images/",
+			"../styles/",
+			"scripts/",
+			"iclient",
+			"client",
+			"clients",
+			"Client",
+			"clients",
+			"restaurents[0].menus",
+			"scripts/",
+			"styles/",
+			"scripts/",
+			"styles/",
+			"Notariat",
+			"scripts/\nstyle'/'",
+			"scripts/\nstyles/",
+			"scripts/\nimgs/",
+			"scripts/\n",
+			"scripts/\ncss",
+			"scripts/\nscripts/",
+			"styles",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 21045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								997,
+								997
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.407849171204,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true
+}
